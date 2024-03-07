@@ -9,7 +9,7 @@ sidebar:
 
     # Profile information
     name: Chengyuan Wen
-    tagline: Android Developer
+    tagline: Android / Full Stack Developer
     # avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -35,6 +35,9 @@ sidebar:
       info:
         - idiom: English
           level: Professional
+
+        - idiom: French
+          level: Elementary
 
         - idiom: Chinese (Mandarin)
           level: Native
@@ -65,13 +68,13 @@ education:
         university: Memorial University of Newfoundland
         time: 2023 - 2024
         details: |
-          2023 Received the 1st Class In-Program Scholarship from FEAS for outstanding performance in academic.
+          Received the 1st Class In-Program Scholarship from FEAS for outstanding performance in academic in OCtober 2023.
             
       - degree: B.Eng. in Software Engineering
         university: Harbin Institute of Technology
         time: 2012 - 2016
         details: |
-          Grade: 3.2/4
+          GPA: 3.2/4
 
 experiences:
     title: Experiences
@@ -82,14 +85,11 @@ experiences:
         details: |
           Led the development of an application store similar to Google Play for MIOS, an operating system based on Android. Key achievements include:
 
-            - Authentication and Payment Integration
-             Implemented cross-platform OAuth login and integrated third-party payments (Alipay, WeChat) with support for discounts and in-app currency.
+            - Authentication and Payment Integration: Implemented cross-platform OAuth login and integrated third-party payments (Alipay, WeChat) with support for discounts and in-app currency.
 
-            - Youth Protection and Privacy Enhancement
-              Developed a system to mitigate minor addiction and enhanced privacy compliance efforts.
+            - Youth Protection and Privacy Enhancement: Developed a system to mitigate minor addiction and enhanced privacy compliance efforts.
 
-            - Architecture Optimization and Performance Improvements
-              Transitioned to an MVVM architecture using JetPack, improving code maintainability and scalability.
+            - Architecture Optimization and Performance Improvements: Transitioned to an MVVM architecture using JetPack, improving code maintainability and scalability.
               Reduced login times from 3 seconds to 1.5 seconds, increased payment success rates by 3%, and maintained a crash rate below 0.01%.
 
 # certifications:
@@ -190,12 +190,16 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Java & Kotlin
+      - name: Java 
         level: 90%
       - name: Python
         level: 90%
       - name: SQL
         level: 90%
+      - name: Kotlin
+        level: 70%
+      - name: HTML & CSS
+        level: 60%
 
 
 
