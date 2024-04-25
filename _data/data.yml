@@ -57,8 +57,8 @@ career-profile:
     summary: |
       With four years of experience in Android development and project
       management, I am currently enhancing my expertise by pursuing
-      a Master's degree in Computer Engineering at MUN, with an
-      anticipated completion in Auguest 2024. I was honored with the 1st
+      a master's degree in Computer Engineering at MUN, with an
+      anticipated completion in August 2024. I was honored with the 1st
       Class In-Program Scholarship by the FEAS for outstanding scholarly
       achievements in 2023.
 education:
@@ -66,13 +66,13 @@ education:
     info:
       - degree: M.A.Sc in Computer Engineering
         university: Memorial University of Newfoundland
-        time: 2023 - 2024
+        time: Jan, 2023 - Aug, 2024
         details: |
           Received the 1st Class In-Program Scholarship from FEAS for outstanding performance in academic in OCtober 2023.
             
       - degree: B.Eng. in Software Engineering
         university: Harbin Institute of Technology
-        time: 2012 - 2016
+        time: Sep, 2012 - Aug, 2016
         details: |
           GPA: 3.2/4
 
@@ -80,7 +80,7 @@ experiences:
     title: Experiences
     info:
       - role: Lead Developer
-        time: 2016 - 2020
+        time: Sep, 2016 - Aug, 2020
         company: Xiaomi Group (Global 500), Beijing
         details: |
           Led the development of an application store similar to Google Play for MIOS, an operating system based on Android. Key achievements include:
